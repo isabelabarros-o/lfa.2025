@@ -1,4 +1,5 @@
-# main.py
+# Trabalho 3 de Linguagens Formais e Autômatos 2025/2
+# Autora: Isabela Barros de Oliveira
 
 from funcoes import TransformadorGramatica
 
